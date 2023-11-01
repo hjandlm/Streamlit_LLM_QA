@@ -21,3 +21,6 @@
 
 后续将不断优化界面，添加新的组件。
 
+<img width="140" alt="image" src="https://github.com/hjandlm/Streamlit_LLM_QA/assets/97649541/14eb6783-e58d-47cb-88f3-2195501ec011">
+
+
